@@ -17,7 +17,7 @@
         "utility": true,
         "moderation": false,
         "fun": false,
-        "distube music": false,
+        "distube music": true,
         "setups": true
     },
     "lavalink": {
