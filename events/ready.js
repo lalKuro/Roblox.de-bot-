@@ -4,6 +4,11 @@ module.exports = {
     name: 'ready',
     once: true,
     execute(client) {
+
+
+const activities = [
+            { name: 'roblox.com', type: ActivityType.Playing },
+        ];
      
         const statuses = ['online'];
 
